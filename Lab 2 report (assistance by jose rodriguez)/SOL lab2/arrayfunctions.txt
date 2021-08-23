@@ -1,0 +1,15 @@
+The sum is 23.60
+The average is:5.90
+please enter three numbers:
+ enter vector1:532
+ enter vector1:65
+ enter vector1:23
+please enter three numbers again:
+ enter vector2:78
+ enter vector2:75
+ enter vector2:09
+The product of 2 vector is 46578.00
+The Euclidian distance is 206412.00
+C:\Users\emman\source\repos\ascii\Debug\arrayfunctions.exe (process 4116) exited with code 0.
+Press any key to close this window . . .
+
